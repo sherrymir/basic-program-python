@@ -1,0 +1,125 @@
+Grilled Cheese
+10
+bread
+cheddar
+butter
+
+Veggie Pasta
+25
+pasta
+zucchini
+tomato
+olive oil
+garlic
+basil
+
+Chicken Curry
+40
+chicken
+onion
+garlic
+ginger
+tomato
+yogurt
+spices
+
+Fruit Salad
+5
+apple
+banana
+grapes
+orange
+honey
+mint
+
+Garlic Bread
+15
+bread
+butter
+garlic
+parsley
+salt
+
+Tomato Soup
+20
+tomato
+onion
+garlic
+olive oil
+salt
+pepper
+basil
+
+Egg Fried Rice
+15
+rice
+eggs
+soy sauce
+green onion
+carrot
+peas
+oil
+
+Banana Pancakes
+10
+banana
+eggs
+flour
+milk
+baking powder
+butter
+
+Lentil Stew
+35
+lentils
+onion
+garlic
+carrot
+celery
+tomato
+spices
+
+Fish Tacos
+25
+fish
+tortilla
+cabbage
+lime
+sour cream
+cilantro
+spices
+
+Pancakes
+15
+milk
+eggs
+flour
+sugar
+salt
+butter
+
+Meatballs
+45
+mince
+eggs
+breadcrumbs
+
+Tofu rolls
+30
+tofu
+rice
+water
+carrot
+cucumber
+avocado
+wasabi
+
+Cake pops
+60
+milk
+bicarbonate
+eggs
+salt
+sugar
+cardamom
+butter

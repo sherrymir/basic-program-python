@@ -1,0 +1,2 @@
+The program should output the result in csv 
+Additionaly, in text file as shown

@@ -1,0 +1,5 @@
+Screen time 30.06.2025:0/300/120
+Screen time 01.07.2025:0/360/0
+Screen time 02.07.2025:60/300/0
+Screen time 03.07.2025:15/120/300
+Screen time 04.07.2025:0/0/0

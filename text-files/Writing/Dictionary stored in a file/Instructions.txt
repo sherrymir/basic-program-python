@@ -1,0 +1,1 @@
+Please write a program which functions as a dictionary. The user can type in new entries or look for existing entries.
