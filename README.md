@@ -36,6 +36,6 @@ This is perfect for:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sherrymir/YOUR_REPO_NAME.git
+   git clone https://github.com/sherrymir/basic-program-python.git
    cd basic-program-python
    
